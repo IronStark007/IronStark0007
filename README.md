@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironstark007" alt="ironstark007" /></a> </p> -->
 
-- 🔭 I’m currently working on Open Source Development Projects at [GSSOC's](https://gssoc.girlscript.tech/profile.html?id=IronStark007)
 
 - 🌱 I’m currently learning **Data & Web technologies**
 
