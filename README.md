@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1bAPxTY-ZPRG48Bj3yMME42uggzicHuoe/view?usp=sharing)
 
-- 🥅 2021 Goals: Push myself everyday to become more better version of myself
+- 🥅 2021 Goals: Pushing my limits everyday to become more better version of myself
 
 - ⚡ Hobbies : Music, Workout and Cycling
 ---
