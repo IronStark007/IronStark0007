@@ -6,30 +6,25 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironstark007" alt="ironstark007" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **Data & Web technologies**
+- 🌱 I’m currently contributing **Data & Web technologies**
 
 - 👯 I’m looking to contribute to the developer community with my good work.
 
-- 📝 I frequently write articles on [Blogger.com](https://ironstark007.blogspot.com/)
-
-- 💬 Ask me about **Python, ML and Data Analytics**
+- 💬 Ask me about **Python, ML, Software and Data Analytics**
 
 - 📫 How to reach me **ansar326629@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1bAPxTY-ZPRG48Bj3yMME42uggzicHuoe/view?usp=sharing)
+- 🥅 2022 Goals: Pushing my limits everyday to become more better version of myself
 
-- 🥅 2021 Goals: Pushing my limits everyday to become more better version of myself
-
-- ⚡ Hobbies : Music, Workout and Cycling
+- ⚡ Hobbies : Programming, Workout and Cycling
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ansarimohdali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ansarimohdali" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.funky_hunk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.funky_hunk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucs8vzxt1lwxkvhc9wzdfihg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucs8vzxt1lwxkvhc9wzdfihg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ironstark007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ironstark007" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ironstark007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ironstark_007" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ironstark_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ironstark_007" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/ironstark007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ironstark007" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ironstark007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@ironstark007" height="30" width="40" /></a>
-</p>
+</p> -->
 
 ---
 <h3 align="left">Languages and Tools:</h3>
