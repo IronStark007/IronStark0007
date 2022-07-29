@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironstark007" alt="ironstark007" /></a> </p> -->
 
 
-- 🌱 I’m currently contributing **Full Stack technologies**
+- 🌱 I’m currently contributing to **Full Stack technologies**
 
 - 👯 I’m looking to contribute to the developer community with my good work.
 
