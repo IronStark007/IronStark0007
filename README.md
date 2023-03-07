@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ansar326629@gmail.com**
 
-- 🥅 2022 Goals: Pushing my limits everyday to become more better version of myself
+- 🥅 2023 Goals: Pushing my limits everyday to become more better version of myself
 
 - ⚡ Hobbies : Programming, Workout and Cycling
 ---
